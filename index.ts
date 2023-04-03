@@ -1,2 +1,2 @@
 let num:number;
-num=parseInt(prompt("nu"))
+num=parseInt(prompt("nu"));
